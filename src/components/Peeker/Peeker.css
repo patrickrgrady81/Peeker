@@ -1,0 +1,22 @@
+.peeker-grid-container {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    grid-template-rows: 2fr 1fr;
+    height: 95vh;
+}
+
+.orange-border {
+    border: 1px solid orange;
+}
+
+.blue-border {
+    border: 1px solid rgb(80, 80, 255);
+}
+
+.cards {
+    height: 70%;
+}
+
+.buttons {
+    height: 30%;
+}
